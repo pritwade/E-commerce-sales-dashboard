@@ -10,6 +10,21 @@ To analyze one year of online retail transaction data and generate business insi
 
 ---
 
+📂 Data Source
+This project uses the Online Retail Dataset from the UCI Machine Learning Repository.
+
+Source: UCI Machine Learning Repository
+
+Data collected from a UK-based online retailer from Dec 2010 to Dec 2011
+
+Fields include: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
+File: Online_Retail.xlsx
+
+Note: The cleaned CSV is included as a .zip file due to GitHub's file size limits.
+
+---
+
 ## 🛠 Tools & Technologies
 - **Python (Pandas)** – Data cleaning and preprocessing
 - **SQL (Databricks)** – Revenue, trends, customer analysis
